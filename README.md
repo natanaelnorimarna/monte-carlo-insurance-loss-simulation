@@ -4,11 +4,11 @@ A personal actuarial project exploring aggregate insurance loss modeling using M
 
 ## Project Disclaimer
 
-This repository contains a personal project developed as part of my individual learning journey and professional skill development in actuarial science.
+This repository contains a personal project as part of my individual learning journey and professional skill development in actuarial science.
 
-This project is not intended to fulfill any university coursework, academic assignment, or formal research requirement. Instead, it serves as a practical exploration of insurance risk modeling, probability distributions, and Monte Carlo simulation using Python.
+This project is not intended to fulfill any university coursework, academic assignment, or formal research requirement. It serves as a practical exploration of insurance risk modeling, probability distributions, and Monte Carlo simulation using Python.
 
-I recognize that this project may contain limitations in its assumptions, methodology, and implementation. Therefore, I warmly welcome suggestions, constructive criticism, and feedback from fellow learners, actuarial students, and professionals to help improve this project.
+I recognize that this project may contain limitations in its assumptions, methodology, and implementation. Therefore, I warmly welcome suggestions, constructive criticism, and feedback from fellow learners, actuarial students, and professionals to help improve this project and my knowledge.
 
 ## Project Overview
 
@@ -114,7 +114,7 @@ monte-carlo-insurance-loss-simulation/
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/monte-carlo-insurance-loss-simulation.git
+git clone https://github.com/natanaelnorimarna/monte-carlo-insurance-loss-simulation.git
 cd monte-carlo-insurance-loss-simulation
 pip install -r requirements.txt
 jupyter notebook notebook/monte_carlo_insurance_simulation.ipynb
@@ -122,7 +122,7 @@ jupyter notebook notebook/monte_carlo_insurance_simulation.ipynb
 
 ## Author and Feedback
 
-Natan, student at IPB University with an interest in actuarial science.
+Natanael Handi Rilus Norimarna, student at IPB University with an interest in actuarial science.
 Suggestions and constructive criticism are welcome via GitHub Issues or pull requests.
 
 ## License
